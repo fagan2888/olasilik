@@ -26,8 +26,8 @@ class Possibility:
 
     def head_tail(self):
         """
-		  Head or Tail
-	    """
+	    Head or Tail
+	"""
         return choice(["Head", "Tail"])
 
     def rock_paper_scissors(self):
